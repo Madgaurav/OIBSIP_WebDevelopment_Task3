@@ -28,7 +28,7 @@ A sleek and modern temperature converter web app that allows users to convert va
 
 > *(Add screenshots here after hosting the app or taking snapshots)*  
 > Example:
-> ![Screenshot](Screenshot 2025-07-01 at 7.10.07 PM.png)
+> ![Screenshot](websiteImage.png)
 
 ---
 
